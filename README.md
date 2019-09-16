@@ -2,4 +2,4 @@
 
 ## Teads Test Pages
 
-### Bidtellect & TTD need test pages that do not contain AWS in the URL
+### Blank Teads Test Pages (Not AWS)
